@@ -1,3 +1,0 @@
-This is the second file header!
-
-here is a line in another file
